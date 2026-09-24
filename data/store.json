@@ -268,6 +268,127 @@
       "images": [
         "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80"
       ]
+    },
+    {
+      "id": 9,
+      "slug": "gulabi-gotapatti-anarkali-suit",
+      "name": "Gulabi Mahal Handblock Gotapatti Anarkali Set with Organza Dupatta",
+      "category": "Anarkali & Dresses",
+      "price": 2499,
+      "originalPrice": 3899,
+      "discountPercent": 36,
+      "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\",\"XXL\"]",
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+      "description": "Masterfully handcrafted by master artisans in Sanganer, Jaipur. Pure 60s cambric cotton with traditional floral block prints, authentic gold gotapatti hand embroidery along the yoke, and a breezy lightweight organza dupatta.",
+      "fabric": "Pure 60s Cambric Cotton",
+      "color": "Gulabi Rose Pink",
+      "highlights": "[\"Handcrafted Yoke with Real Gotapatti\",\"Flared 4.5m Kali Gher\",\"Tailored Cigarette Pants\"]",
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isFeatured": true,
+      "isActive": true,
+      "createdAt": "2026-09-24T15:24:50.512Z",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "indigo-bagru-straight-kurta-set",
+      "name": "Indigo Neelkamal Handblock Straight Kurta Set with Afghani Pants",
+      "category": "Kurta Sets",
+      "price": 1899,
+      "originalPrice": 2699,
+      "discountPercent": 30,
+      "sizes": "[\"S\",\"M\",\"L\",\"XL\",\"XXL\"]",
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80",
+      "description": "Authentic Bagru natural indigo block prints with delicate thread embroidery on collar and cuffs. Paired with comfortable pleated Afghani trousers and matching mulmul dupatta.",
+      "fabric": "100% Breathable Sanganeri Cotton",
+      "color": "Indigo Blue & Ivory",
+      "highlights": "[\"Natural Dyes\",\"Comfort Afghani Fit Pants\",\"Subtle Thread Work\"]",
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isFeatured": false,
+      "isActive": true,
+      "createdAt": "2026-09-24T15:24:50.513Z",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "sage-green-cotton-coord-set",
+      "name": "Sanganer Floral Sage Green Collared Co-ord Set",
+      "category": "Co-ord Sets",
+      "price": 1599,
+      "originalPrice": 2299,
+      "discountPercent": 30,
+      "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80",
+      "description": "Modern chic ethnic co-ord set featuring a button-down tunic top with notched lapels and tailored straight-cut trousers with deep functional pockets.",
+      "fabric": "Soft Rayon Slub Cotton",
+      "color": "Sage Green Floral",
+      "highlights": "[\"Dual Pockets Included\",\"Elasticated Comfort Waist\",\"Zero Color Bleed\"]",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isFeatured": false,
+      "isActive": true,
+      "createdAt": "2026-09-24T15:24:50.513Z",
+      "images": [
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "royal-peacock-mirror-kurti",
+      "name": "Peacock Blue Sheesha Mirror-Work Flared Kurti",
+      "category": "Kurta / Kurtis",
+      "price": 1299,
+      "originalPrice": 1799,
+      "discountPercent": 28,
+      "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\",\"XXL\"]",
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+      "description": "Vibrant peacock blue short flared kurti adorned with genuine Rajasthani mirror work (sheesha) and gotta patti accents on neckline and bell sleeves.",
+      "fabric": "Pure Cotton Mulmul",
+      "color": "Peacock Blue",
+      "highlights": "[\"Hand-stitched Mirror Work\",\"Three-quarter Bell Sleeves\",\"Breezy Silhouette\"]",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isFeatured": false,
+      "isActive": true,
+      "createdAt": "2026-09-24T15:24:50.513Z",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "kesar-yellow-chanderi-festive-fit",
+      "name": "Kesar Yellow Chanderi Silk Zari Suit with Scalloped Dupatta",
+      "category": "Festive Fits",
+      "price": 2799,
+      "originalPrice": 3999,
+      "discountPercent": 30,
+      "sizes": "[\"S\",\"M\",\"L\",\"XL\",\"XXL\"]",
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=800&q=80",
+      "description": "Radiant festive suit crafted from rich Chanderi silk with intricate gold zari brocade motifs and scalloped organza dupatta with hand-finished latkans.",
+      "fabric": "Chanderi Silk & Santoon Lining",
+      "color": "Haldi Kesar Yellow",
+      "highlights": "[\"Gold Zari Weave\",\"Scalloped Embroidered Border\",\"Complete 3-Piece Set\"]",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isFeatured": false,
+      "isActive": true,
+      "createdAt": "2026-09-24T15:24:50.513Z",
+      "images": [
+        "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=800&q=80"
+      ]
     }
   ],
   "orders": [
